@@ -280,17 +280,6 @@ export default function Home() {
                   Me especializo en diseñar e implementar la arquitectura técnica donde el software de alta complejidad y los modelos de 
                   Inteligencia Artificial de última generación se integran para resolver necesidades reales del negocio.
                 </p>
-                <p>
-                  Mi trayectoria se ha forjado en el desarrollo aplicado y experimental. Fui el creador de <strong>Ritmia</strong>, 
-                  un agente móvil para iOS capaz de procesar y diagnosticar ritmos cardíacos en tiempo real directo en el dispositivo, 
-                  y desarrollé <strong>NoHate-LATAM</strong>, un clasificador lingüístico NLP entrenado específicamente para interpretar 
-                  modismos, jergas y contextos culturales de América Latina, publicado en HuggingFace.
-                </p>
-                <p>
-                  Mi filosofía de trabajo prescinde de la burocracia corporativa y las plantillas prefabricadas. Creo en la rigurosidad 
-                  de la ingeniería en la nube, la velocidad de ejecución y en crear interfaces que no solo se ven limpias, 
-                  sino que están pensadas para cargar en milisegundos. Escribo sobre deconstrucción de ideas complejas en deconstruir.me.
-                </p>
               </div>
             </div>
 
